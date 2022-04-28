@@ -1,0 +1,33 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../lab_5.srcs/sources_1/imports/Labs/alu.vhd" \
+"../../../../lab_5.srcs/sources_1/imports/Labs/instmem.vhd" \
+"../../../../lab_5.srcs/sources_1/new/PC.vhd" \
+"../../../../lab_5.srcs/sources_1/new/PCADD.vhd" \
+"../../../../lab_5.srcs/sources_1/imports/Labs/regfile.vhd" \
+"../../../../lab_5.srcs/sources_1/new/ALU_Control.vhd" \
+"../../../../lab_5.srcs/sources_1/new/ADD.vhd" \
+"../../../../lab_5.srcs/sources_1/new/signExtend.vhd" \
+"../../../../lab_5.srcs/sources_1/new/shiftReg.vhd" \
+"../../../../lab_5.srcs/sources_1/new/mux.vhd" \
+"../../../../lab_5.srcs/sources_1/imports/Labs/datamem.vhd" \
+"../../../../lab_5.srcs/sources_1/new/mux_5bit.vhd" \
+"../../../../lab_5.srcs/sources_1/new/Control.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_ALU_0_0/sim/Datapath_ALU_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_instmem_0_0/sim/Datapath_instmem_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_PC_0_0/sim/Datapath_PC_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_PCADD_0_0/sim/Datapath_PCADD_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_regfile_0_0/sim/Datapath_regfile_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_ADD_0_0/sim/Datapath_ADD_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_signExtend_0_0/sim/Datapath_signExtend_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_shiftReg_0_0/sim/Datapath_shiftReg_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_mux_0_0/sim/Datapath_mux_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_datamem_0_0/sim/Datapath_datamem_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_mux_1_0/sim/Datapath_mux_1_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_mux_5bit_0_0/sim/Datapath_mux_5bit_0_0.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_mux_1_1/sim/Datapath_mux_1_1.vhd" \
+"../../../../lab_5.ip_user_files/bd/Datapath/ip/Datapath_Control_0_5/sim/Datapath_Control_0_5.vhd" \
+"../../../../lab_5.srcs/sim_1/new/Datapath_tb.vhd" \
+
+# Do not sort compile order
+nosort
