@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Kenny Khut\Desktop\CECS 301\Labs\CECS301_Lab8\Lab8_TopModule.ncd
+OUTFILE=C:\Users\Kenny Khut\Desktop\CECS 301\Labs\CECS301_Lab8\Lab8_TopModule.bit
+FAMILY=Artix7
+PART=xc7a100t-2csg324
+WORKINGDIR=C:\Users\Kenny Khut\Desktop\CECS 301\Labs\CECS301_Lab8
+LICENSE=WebPack
+USER_INFO=211298158_0_0_316
