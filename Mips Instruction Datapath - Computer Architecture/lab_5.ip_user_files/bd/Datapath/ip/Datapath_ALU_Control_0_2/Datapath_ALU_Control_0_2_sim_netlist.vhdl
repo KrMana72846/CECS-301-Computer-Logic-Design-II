@@ -1,0 +1,12 @@
+-- Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+-- --------------------------------------------------------------------------------
+-- Tool Version: Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+-- Date        : Fri May  8 21:22:13 2020
+-- Host        : DESKTOP-M1S2RLT running 64-bit major release  (build 9200)
+-- Command     : write_vhdl -force -mode funcsim {C:/Users/Kenny Khut/Desktop/CECS
+--               440/Labs/lab_5/lab_5.srcs/sources_1/bd/Datapath/ip/Datapath_ALU_Control_0_2/Datapath_ALU_Control_0_2_sim_netlist.vhdl}
+-- Design      : Datapath_ALU_Control_0_2
+-- Purpose     : This VHDL netlist is a functional simulation representation of the design and should not be modified or
+--               synthesized. This netlist cannot be used for SDF annotated simulation.
+-- Device      : xc7a100tcsg324-1
+-- --------------------------------------------------------------------------------
