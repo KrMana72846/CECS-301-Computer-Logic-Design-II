@@ -1,0 +1,2 @@
+C:\Users\Kenny\Desktop\C++ Projects\Banking Program\Debug\Banking Program.exe
+C:\Users\Kenny\Desktop\C++ Projects\Banking Program\Debug\Banking Program.pdb
